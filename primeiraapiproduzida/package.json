@@ -1,0 +1,24 @@
+{
+  "name": "primeiraapiproduzida",
+  "version": "1.0.0",
+  "description": "bank api simplified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiGf/primeiraapiproduzida.git"
+  },
+  "author": "LuigiGF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigiGf/primeiraapiproduzida/issues"
+  },
+  "homepage": "https://github.com/LuigiGf/primeiraapiproduzida#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "winston": "^3.3.3"
+  }
+}

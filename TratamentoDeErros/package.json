@@ -1,0 +1,24 @@
+{
+  "name": "TratamentoDeErros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiGf/TratamentoDeErros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuigiGf/TratamentoDeErros/issues"
+  },
+  "homepage": "https://github.com/LuigiGf/TratamentoDeErros#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "type": "module"
+}
